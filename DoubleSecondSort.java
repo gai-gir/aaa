@@ -39,7 +39,6 @@ public class DoubleSecondSort {
 			}
 		}
 		for(int i = 0;i<array.length;i++){
-			//cherry
 			 System.out.print(array[i]+" ");
 		}
 	}
