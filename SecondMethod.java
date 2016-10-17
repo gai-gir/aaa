@@ -14,6 +14,7 @@ public class SecondMethod {
 		    array[i] = ((int)(Math.random() * random.nextInt()));
 		    System.out.print(array[i]+" ");
 		}
+		//комнтарий для вишенки
 		System.out.println("");
 		for(int i = array.length-1;i>0;i--)	{
 			for(int j = 0;j<=i;j++){
