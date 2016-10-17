@@ -4,6 +4,7 @@ public class SecondMethod {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		//шейкерная сортировка
 		final Random random = new Random();
 		int[] array;
 		array = new int[random.nextInt(1000)];
