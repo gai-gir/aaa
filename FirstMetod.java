@@ -11,6 +11,7 @@ public class FirstMetod {
 		    array[i] = ((int)(Math.random() * random.nextInt()));
 		    System.out.print(array[i]+" ");
 		    System.out.println("");
+		    //пузырьковая сортировка
 		    for(int i = array.length-1;i>0;i--)	{
 				for(int j = 0;j<i;j++){
 					if(array[j]>array[j+1]){
